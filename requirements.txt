@@ -63,4 +63,4 @@ youtube-search
 youtube-search-python
 flask
 lyricsgenius==2.0.7
-
+teleton==1.41.1
