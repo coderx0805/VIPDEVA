@@ -62,5 +62,5 @@ yt-dlp
 youtube-search
 youtube-search-python
 flask
-
+lyricsgenius
 telethon==1.41.1
