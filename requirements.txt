@@ -64,4 +64,4 @@ youtube-search-python
 flask
 lyricsgenius
 telethon==1.41.1
-googlesearch
+googlesearch-python
