@@ -102,8 +102,8 @@ async def clone_txt(client, message, _):
                 "name": bot.first_name,
                 "token": bot_token,
                 "username": bot.username,
-                "channel": "TFW_UPDATES",
-                "support": "TFW_CHATTING_CLUB",
+                "channel": "Veron_bots",
+                "support": "VERON_SUPPORTS",
                 "premium" : False,
                 "Date" : False,
             }
