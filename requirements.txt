@@ -13,13 +13,12 @@ emojis
 ffmpeg-python
 Faker
 future==1.0.0
-git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e9639edb1a
-gitpython
+git+https://github.com/AsmSafone/SafoneAPIgitpython
 gpytranslate
 gtts
 hachoir
 heroku3
-httpx[http2]==0.27.2
+httpx[http2]
 img2pdf
 instaloader
 lexica-api
